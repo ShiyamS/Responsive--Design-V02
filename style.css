@@ -377,10 +377,9 @@ h4 {
     width: 40%;
   }
   .column {
-    padding-right: 8rem;
+    width: 30%;
   }
-
   .column.column--info {
-    padding-right: 10rem;
+    width: 50%;
   }
 }
